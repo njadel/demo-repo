@@ -1,2 +1,2 @@
 description 
-glory
+glory@
